@@ -1,0 +1,19 @@
+{
+  "name": "reactcomponents",
+  "version": "1.0.0",
+  "description": "this is somes react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebTianJie/ReactComponents.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebTianJie/ReactComponents/issues"
+  },
+  "homepage": "https://github.com/WebTianJie/ReactComponents#readme"
+}
