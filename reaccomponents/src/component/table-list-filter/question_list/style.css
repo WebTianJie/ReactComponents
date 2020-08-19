@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+.answer-wrap {
+  width: 800px;
+  margin: 0 auto;
+  height: auto;
+  overflow: hidden;
+}
+.filter {
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.filter-item {
+  padding: 5px;
+}
+.dataRange {
+  display: block;
+}
+.filter-item label {
+  padding-right: 15px;
+}
+.filter-item input,
+select {
+  height: 40px;
+  padding: 5px 0 5px 5px;
+  border: #ccc solid 1px;
+}
+.button-box span {
+  color: cornflowerblue;
+}
+.page-select {
+  margin-top: 15px;
+}
+.pending {
+  color: rgba(46, 139, 87);
+}
+.resolve {
+  color: rgba(0, 100, 0);
+}
+.unresolve {
+  color: rgba(255, 0, 0, 0.5);
+}
+.questionState {
+  cursor: pointer;
+}
+.button {
+  color: rgb(0, 143, 243);
+  cursor: pointer;
+}
