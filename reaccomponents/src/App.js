@@ -1,7 +1,7 @@
-import React from "react";
-import From from ".//component/hookform/form";
+import React from 'react'
+import PageIndex from './Page'
 function App() {
-  return <From />;
+	return <PageIndex />
 }
 
-export default App;
+export default App
